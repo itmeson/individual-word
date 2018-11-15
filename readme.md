@@ -5,4 +5,5 @@
  * Install anaconda
  * test installation with demo code
  * Sample visualization of data
+ * Project brainstorming
 
